@@ -19,7 +19,7 @@ Instead, this portfolio highlights academically developed projects that reflect 
 - Deep Learning (CNNs, Transformers, Cross-Attention Architectures)  
 - Model Evaluation and Reproducible Pipelines  
 - Simulation and Automation Frameworks  
-- Python, PyTorch, scikit-learn, and RMIT Research Tools  
+- Python, PyTorch, Tensorflow, scikit-learn, and RMIT Research Tools (AWS, AZURE, etc.) 
 
 ---
 
