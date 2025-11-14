@@ -2,7 +2,7 @@
 
 This repository showcases selected examples of my work in data science, machine learning, and AI.  
 Due to confidentiality and data protection requirements, examples from professional work cannot be publicly shared.  
-Instead, this portfolio highlights academically developed projects that reflect advanced technical work assessed at distinction level or above, demonstrating equivalent capability in model design, analytical reasoning, and reproducible development using open data.
+Instead, this portfolio highlights academically developed projects that reflect advanced technical work assessed at high distinction level, demonstrating equivalent capability in model design, analytical reasoning, and reproducible development using open data.
 
 ---
 
