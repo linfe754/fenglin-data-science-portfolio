@@ -1,7 +1,10 @@
 # Data Science & AI Portfolio — Feng Lin
 
 This repository showcases selected examples of my work in data science, machine learning, and AI.  
-It includes two independent projects that demonstrate practical expertise in model development, evaluation, and applied analytics using open data.
+Due to confidentiality and data protection requirements, examples from professional work cannot be publicly shared.  
+Instead, this portfolio highlights academically developed projects that demonstrate equivalent technical depth, model design, and analytical capability using open data.
+
+---
 
 ## Repository Overview
 | Folder | Description |
